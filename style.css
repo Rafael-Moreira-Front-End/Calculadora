@@ -102,5 +102,5 @@ button:hover {
     border: 3px solid rgb(189, 126, 17);
     font-size: 35px;
     cursor: pointer;
-    transition: 0.5s;
+    transition: 0.4s;
 }
